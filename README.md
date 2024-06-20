@@ -4,3 +4,5 @@ This notebook parses the latest information from The Fed [webpage](https://www.f
 Note:
 Accurate from 2006 onwards
 Years prior to 2006 contain exceptions to the Federal Bank membership rotations which the membership calculator does not take account for.
+
+![image](https://github.com/sjdude/latest-FRB-FOMC-members/assets/73837835/484b4185-1911-4c72-9d68-0910a121673d)
